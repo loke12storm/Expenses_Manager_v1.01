@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Expenses Manager</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="login">Sign In</string>
+    <string name="reg">Register</string>
+    <string name="regLink"><u>Do not have an account? Register here!</u></string>
+</resources>
